@@ -1,0 +1,2 @@
+
+GET http://localhost:3000/users/324/qwer HTTP/1.1
